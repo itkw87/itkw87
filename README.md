@@ -8,7 +8,6 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 	<img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
 	<img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" />
@@ -17,6 +16,7 @@
 
 
 <div align="center">
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /> 
 	<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=naver&logoColor=white" />
 	<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white" />
