@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=70&section=header&text=Hellow&fontSize=70" />
-<div width=100% align="center">
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=70&section=header&text=Hellow&fontSize=50" />	
 	<h2>TechStack</h3>
 	<table border="1">
 		<th>FrontEnd</th>
