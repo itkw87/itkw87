@@ -1,7 +1,7 @@
 ### Hellow EveryOne 👋
 	
 <div align="center">
-	<h3>TechStack</h3>
+	<h2>TechStack</h3>
 	<table border="1">
 		<th>FrontEnd</th>
 		<th>BackEnd</th>
