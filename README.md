@@ -1,6 +1,13 @@
 ### Hellow EveryOne 👋
 
 <div align="center">
+	<h3>TechStack</h3>
+	<table width="100%">
+		<th>FrontEnd</th><th>BackEnd</th><th>FrameWork</th><th>VCS</th><th>OS</th><th>IDE</th><th>Cloud</th><th>BUILD | DEPLOY</th>
+		 <tr>
+   			
+			 
+		 </tr>
 	<img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -12,11 +19,9 @@
 	<img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
 	<img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" />
 
-</div>
 
 
-<div align="center">
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /> 
+
 	<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=naver&logoColor=white" />
 	<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white" />
@@ -28,4 +33,5 @@
 	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
 	
+</table>
 </div>
