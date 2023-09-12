@@ -1,37 +1,5 @@
 <div align="center">
-	
-
-            <svg width="854" height="120" viewBox="0 0 854 120" xmlns="http://www.w3.org/2000/svg">
-                <style>
-                            .text {
-						font-size: 30px;
-						font-weight: 700;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}
-					.desc {
-						font-size: 20px;
-						font-weight: 500;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}
-                            
-                        </style>
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 120">
-                    
-                                <defs>
-					<linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-						<stop offset="0%" stop-color="#5C258D"/><stop offset="100%" stop-color="#4389A2"/>
-					</linearGradient>
-				</defs>
-				
-                                <path fill="url(#linear)"  fill-opacity="1" d="m 0 0 l 0 120 l 854 0 l 0 -120 z"></path>
-                </svg>
-                
-        <rect fill="#f7f5f5" height="70" width ="160" x="30%" y="50%" transform="translate(-80, -35)"  rx ="25" ry ="25" />
-        
-                        <text text-anchor="middle" alignment-baseline="middle" x="30%" y="50%" class="text" style="fill:#282829;" stroke="#none" stroke-width="1" >  RECT  </text>
-                <text text-anchor="middle" alignment-baseline="middle" x="60%" y="50%" class="desc" style="fill:#f7f5f5;">Use 'textBg' to highlight 'text'</text> 
-            </svg>
-        
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=100&section=header&text=Welcome,Sir&fontSize=40&fontColor=white&textBg=true" />
 	<h2>TechStack</h3>
 	<table border="1">
 		<th>FrontEnd</th>
