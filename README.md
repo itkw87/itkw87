@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=100&section=header&text=Welcome,Sir&fontSize=40&fontColor=white&textBg=true" />
-	<h2>TechStack</h3>
+	<h2>Technology Stack</h3>
 	<table border="1">
 		<th>FrontEnd</th>
 		<th>BackEnd</th>
