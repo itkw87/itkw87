@@ -11,7 +11,7 @@
 		<th>OS</th>
 		<th>IDE</th>
 		<th>Cloud & Server</th>
-		<th>BUILD & DEPLOY</th>
+		<th>Build & Deploy</th>
 		<tr>
 			<td align="center"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></td>
 			<td align="center" rowspan="6"><img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/></td>
