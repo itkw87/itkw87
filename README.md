@@ -14,7 +14,7 @@
 		<th>BUILD & DEPLOY</th>
 		<tr>
    			<td><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></td>
-			<td><img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/></td>
+			<td rowspan="6"><img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/></td>
 			<td><img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" /></td>
    			<td><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
 			<td><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></td>
@@ -25,7 +25,7 @@
 		</tr>
    		<tr>
    			<td><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></td>
-			<td rowspan="5"><img alt="Java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/></td>
+			<td><img alt="Java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/></td>
 			<td><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></td>
    			<td><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
 			<td><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></td>
