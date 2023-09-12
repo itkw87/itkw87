@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=100&section=header&text=Hellow EveryOne 👋&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=100&section=header&text=Hellow&fontSize=90" />
 <div align="center">
 	<h2>TechStack</h3>
 	<table border="1">
