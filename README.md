@@ -19,7 +19,7 @@
    			<td rowspan="6"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
 			<td><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></td>
 			<td><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" /></td>
-			<td><img alt="Intellij" src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" /></td>
+			<td><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" /></td>
 			<td><img alt="NaverCloud" src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=naver&logoColor=white" /></td>
 			<td rowspan="6"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" /></td>
 		</tr>
@@ -34,22 +34,19 @@
    		<tr>
    			<td><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></td>
 			<td><img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" /></td>
-			<td rowspan="4"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" /></td>
+			<td rowspan="4"><img alt="Intellij" src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" /></td>
 		</tr>
    		<tr>
    			<td><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/></td>
 			<td><img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" /></td>
-			<td><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" /></td>
 		</tr>
    		<tr>
    			<td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></td>
 			<td><img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" /></td>
-			<td><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" /></td>
 		 </tr>
 		 <tr>
    			<td><img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/></td>
 			<td><img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" /></td>
-			<td><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" /></td>
 		 </tr>
 	
 	
