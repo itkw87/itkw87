@@ -14,7 +14,7 @@
 		<th>BUILD & DEPLOY</th>
 		<tr>
    			<td><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></td>
-			<td><img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/></td>
+			<td><img rowspan="4" alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=OpenJDK&logoColor=white"/></td>
 			<td><img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white" /></td>
    			<td><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
 			<td><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></td>
